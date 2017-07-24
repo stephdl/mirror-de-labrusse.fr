@@ -1,0 +1,1 @@
+1 7 * * * root rsync -avz /root/backup/ root@stephdl.dyndns.org:/root/mysql_backup_mirror.de-labrusse.fr
