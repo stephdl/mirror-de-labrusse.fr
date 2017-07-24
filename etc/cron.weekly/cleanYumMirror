@@ -1,0 +1,6 @@
+#! /bin/bash
+rm -f  $(repomanage --o --keep=2 /home/e-smith/files/ibays/stephdl/html/NethServer/7/)
+rm -f  $(repomanage --o --keep=2 /home/e-smith/files/ibays/stephdl/html/NethServer/6/)
+rm -f  $(repomanage --o --keep=2 /home/e-smith/files/ibays/stephdl/html/smeserver/5/)
+rm -f  $(repomanage --o --keep=2 /home/e-smith/files/ibays/stephdl/html/smeserver/6/)
+
