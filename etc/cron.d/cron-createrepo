@@ -1,0 +1,4 @@
+*/30    *       *       *       * root /usr/bin/createrepo -dvp  /home/e-smith/files/ibays/stephdl/html/smeserver/5 >/dev/null 2>&1
+*/31    *       *       *       * root /usr/bin/createrepo -dvp  /home/e-smith/files/ibays/stephdl/html/smeserver/6 >/dev/null 2>&1
+*/32    *       *       *       * root /usr/bin/createrepo -dvp  /home/e-smith/files/ibays/stephdl/html/NethServer/6 >/dev/null 2>&1
+*/33    *       *       *       * root /usr/bin/createrepo -dvp  /home/e-smith/files/ibays/stephdl/html/NethServer/7 >/dev/null 2>&1

@@ -1,0 +1,1 @@
+15 */3 * * * root rsync --progress -aHS --partial --delete-after rsync://mirror.nethserver.org/nethserver /home/e-smith/files/ibays/nethserver/html >/dev/null 2>&1

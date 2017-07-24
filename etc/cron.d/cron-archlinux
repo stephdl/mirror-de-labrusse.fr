@@ -1,0 +1,1 @@
+30 */2 * * * root rsync --progress -rtlvH --delete-after --delay-updates --safe-links --max-delete=1000 rsync://mirrors.uk2.net/archlinux/ /home/e-smith/files/ibays/archlinux/html/ >/dev/null 2>&1
