@@ -1,0 +1,1 @@
+1 11 * * * root rsync -avz --delete /home/e-smith/files/ibays/geekeries2/html/wp-content/uploads/backwpup-*-backups/ root@stephdl.dyndns.org:/root/sauvWordpress
